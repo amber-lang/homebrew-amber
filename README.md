@@ -3,7 +3,7 @@ homebrew-amber
 To install Amber with Homebrew, run the following command:
 
 ```bash
-brew install simnalamburt/amber/amber-lang
+brew install amber-lang/amber/amber-lang
 ```
 
 > **NOTE**: As soon as amber 0.4.0 is officially released, the amber-lang
