@@ -6,8 +6,8 @@ To install Amber with Homebrew, run the following command:
 brew install amber-lang/amber/amber-lang
 ```
 
-> **NOTE**: As soon as amber 0.4.0 is officially released, the amber-lang
-> package will be submitted to homebrew-core immediately.
+> **NOTE**: Once Amber drops the alpha label and becomes stable, the amber-lang
+> package will be submitted to the central homebrew-core.
 
 &nbsp;
 
