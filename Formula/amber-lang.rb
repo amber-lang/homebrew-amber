@@ -1,9 +1,9 @@
 class AmberLang < Formula
   desc "Programming language that compiles to Bash"
   homepage "https://amber-lang.com"
-  url "https://github.com/amber-lang/amber/archive/refs/tags/0.5.1-alpha.tar.gz"
-  sha256 "518bd183297bee542d3f269c187648349a764d13c6118706717e138d6b9af35c"
-  license "GPL-3.0-only"
+  url "https://github.com/amber-lang/amber/archive/refs/tags/0.6.0-alpha.tar.gz"
+  sha256 "a9294e863f46b94624be768859210703cb664e381d2281d71c35314487eebee4"
+  license "LGPL-3.0-only"
   head "https://github.com/amber-lang/amber.git", branch: "staging"
 
   depends_on "rust" => :build
